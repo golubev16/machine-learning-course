@@ -1,0 +1,6 @@
+лекция - https://github.com/shestakoff/sphere-ml-intro/blob/master/2020/lecture01-intro/Lecture_1.pdf
+
+github - https://github.com/shestakoff/sphere-ml-intro
+
+матплот - https://matplotlib.org/gallery.html
+
